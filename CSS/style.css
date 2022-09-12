@@ -1,0 +1,52 @@
+/* STYLING OF THE WHOLE BODY */
+body{
+    font-family: 'Segoe UI LIGHT';
+}
+/* A CLASS MARGIN GIVEN TO SOME HTML TAGS TO CREATE VERTICAL SPACES */
+.margin{
+    margin-top: 100px;
+}
+/* STYLING OF CHEF DEV*/
+.chef{
+    width: 39.3%;
+    display: inline-block;
+    vertical-align:top;
+}
+/* STYLING OF IMAGE IN CHEF DIV (CHEFIMG) */
+.chefimg{
+    width: 100%;
+}
+/* STYLING OF THE SPECIAL WORD OF H1 */
+span{
+    color: rgb(226, 158, 31);
+    font-size: 20;
+}
+/* STYLING OF THE STORY DIV */
+.story{
+    display: inline-block;
+    width: 59%;
+    text-align: center;
+}
+/* STYLING OF THE ABOUT US BUTTON */
+button{
+    background-color:transparent;
+    font-size: 16;
+    border:3px solid;
+    padding: 10px 15px;
+}
+/* STYLING OF THE 4 SECTIONS INSIDE THE BOTTOM DIV */
+.section{
+    display: inline-block;
+    width: 24.3%;
+    text-align: center;
+}
+/* STYLING OF IMAGES IN THE 4 BOTTOM SECTIONS */
+.section img{
+    border-radius: 50%;
+    width: 40%;
+}
+/* STYLING OF THE HORIZONTAL LINES IN THE 4 BOTTOM SECTIONS */
+.section hr{
+    border: 1px solid rgb(10, 135, 207);
+    width: 40px;
+}
